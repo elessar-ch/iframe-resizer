@@ -513,7 +513,8 @@
 		max                   : getMaxHeight,
 		min                   : getMinHeight,
 		grow                  : getMaxHeight,
-		lowestElement         : getBestHeight
+		lowestElement         : getBestHeight,
+		lowestElementOnly     : getLowestElementHeight
 	};
 
 	function getWidth(){
